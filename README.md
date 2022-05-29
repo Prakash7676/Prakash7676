@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Dart Tutorial App.**
 
-- 🌱 I’m currently learning **Flutter as well as Django.**
+- 🌱 I’m currently learning **Flutter as well as Python.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
