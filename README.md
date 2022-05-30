@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakash Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Prakash7676&label=Profile%20views&color=0e75b6&style=flat" alt="
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Prakash7676&label=Profile%20views&color=0e75b6&style=flat" alt="
 Prakash7676" /> </p>
 
 <p align="center"><a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="175px"/></a></p>
