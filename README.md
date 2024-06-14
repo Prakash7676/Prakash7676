@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Prakash7676/Prakash7676/blob/main/image1.gif)
 <h1 align="center">Hi 👋, I'm Prakash Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
