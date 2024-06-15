@@ -28,11 +28,11 @@
   <a href="https://linkedin.com/in/prakash-stha-211404240" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue" target="_blank" />
   </a>
-  <a href="https://fb.com/prakash.stha.100" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=blue&color=blue" target="_blank" />
-  </a>
-  <a href="https://instagram.com/iamprakash_77" target="blank">
+     <a href="https://instagram.com/iamprakash_77" target="blank">
   <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=orange" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009262777879" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=blue&color=blue" target="_blank" />
   </a>
    <a href="https://twitter.com/Prakash85220860" target="blank">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" />
