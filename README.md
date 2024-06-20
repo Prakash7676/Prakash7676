@@ -13,22 +13,22 @@
 <div align="center"> 
     
 🔭 I’m currently working on **a LearnComputerBasic App**
- </div></br>
+ </div>
  
  <div align="center"> 
      
 🌱 I’m currently learning **Python, java, Flutter**
- </div></br>
+ </div>
  
  <div align="center"> 
      
 💬 Ask me about **C, C++, Flutter... or anything [here](https://github.com/Prakash7676/Prakash7676/issues)**
- </div></br>
+ </div>
  
  <div align="center"> 
      
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- </div></br>
+ </div>
 
 ---
 <h2 align="center">🌐Social Media🌐</h2>
