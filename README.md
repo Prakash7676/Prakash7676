@@ -32,7 +32,7 @@
 
 ---
 <h2 align="center">🌐Social Media🌐</h2>
-</br>
+
 <div align="center"> 
   <a href="mailto:shresthap125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=Gmail&logoColor=orange" />
