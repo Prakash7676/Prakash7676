@@ -4,22 +4,28 @@
 </h1>
 
 <h3 align="center">
-    A Passionate Flutter Developer From Nepal 🇳🇵🇳🇵🇳🇵
+    A Passionate Flutter Developer From Nepal
 </h3>
 <br/>
 
 ---
 
-<div align="center">
+<div align="center"> 
     
 🔭 I’m currently working on **a LearnComputerBasic App**
+ </div>
  
+ <div align="center"> 
+     
 🌱 I’m currently learning **Python, java, Flutter**
-
+ </div>
+ <div align="center"> 
+     
 💬 Ask me about **C, C++, Flutter... or anything [here](https://github.com/Prakash7676/Prakash7676/issues)**
-
+ </div>
+ <div align="center"> 
+     
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
 ---
