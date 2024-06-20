@@ -12,7 +12,7 @@
 
 <div align="center">
     
-  🔭 I’m currently working on **a LearnComputerBasic App**
+🔭 I’m currently working on **a LearnComputerBasic App**
  
 🌱 I’m currently learning **Python, java, Flutter**
 
