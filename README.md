@@ -1,7 +1,8 @@
 <div>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prakash+Shrestha!;" />
 </div>
-
+ 
+ 
 <h3>A Passionate Flutter Developer From Nepal 🇳🇵</h3>
 
 -----------------
@@ -46,7 +47,7 @@
 
 ---
 
-# 🐍 My Contributions
+# 🐍 My Contributions:
 <div align="left">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" />
 </div>
