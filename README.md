@@ -10,7 +10,7 @@
 
 
  # 💫About Me :
- - 🔭 I’m currently working on **a LearnComputerBasic App**
+ - 🔭 I’m currently working on **HTML App**
  - 🌱 I’m currently learning **Python, java, Flutter**
  - 💬 Ask me about **C, C++, Flutter... or anything [here](https://github.com/Prakash7676/Prakash7676/issues)**
  - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
