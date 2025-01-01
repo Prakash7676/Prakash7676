@@ -46,13 +46,25 @@
 
 ---
 
-## 🔨 Languages and Tools:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,html,css,vscode,github,figma,git,photoshop,postman" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,python,javascript,php,c,java,mysql,firebase,appwrite,django,sqlite" />
+## ✨ Languages and Tools:
+
+<div align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=dart,python,javascript,php,c,java" alt="Languages" />
+  <br /><br />
+
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,photoshop,postman" alt="Tools" />
+  <br /><br />
+
+  <!-- Frameworks & Databases -->
+  <h3>Frameworks & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,django,mysql,firebase,sqlite,appwrite" alt="Frameworks & Databases" />
 </div>
+
 
 ---
 
