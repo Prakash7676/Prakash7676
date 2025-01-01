@@ -16,7 +16,7 @@
 
 
 
-# 💫 About Me:
+## 💡 About Me:
 - 🔭 I’m currently working on **HTML App**
 - 🌱 I’m learning **Python**, **Java**, and **Flutter**
 - 💬 Ask me about **C, C++, Flutter**, or anything [here](https://github.com/Prakash7676/Prakash7676/issues)
@@ -24,7 +24,7 @@
 
 ---
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 <div align="center">
   <a href="mailto:shresthap125@gmail.com">
@@ -46,7 +46,7 @@
 
 ---
 
-# 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dart,html,css,vscode,github,figma,git,photoshop,postman" />
@@ -56,7 +56,7 @@
 
 ---
 
-# 🐍 My Contributions:
+## 🐍 My Contributions:
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" />
@@ -75,7 +75,7 @@
 ---
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
