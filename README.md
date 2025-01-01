@@ -68,11 +68,22 @@
 
 ---
 
-## 🐍 My Contributions:
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" />
+## 🚀 My Contributions:
+
+<div align="center" style="animation: fadeIn 2s ease-in-out;">
+  <img 
+    alt="rocket animation for my contributions" 
+    src="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" 
+    style="border-radius: 20px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" 
+    onmouseover="this.style.transform='scale(1.1)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
 </div>
+
+
+
+
 
 ---
 
