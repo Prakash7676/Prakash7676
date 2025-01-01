@@ -1,12 +1,16 @@
 
 
+
 <div align="center" style="animation: fadeIn 3s ease-in-out;">
   <h1 style="font-size: 50px; color: #ff6347; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-    🎆🎉 Wishing you all a prosperous and joyful 2025! 🎉🎆
+    🎆🎉 Happy New Year 2025! 🎉🎆
   </h1>
- 
+  
 
 </div>
+
+
+
 
 
 
