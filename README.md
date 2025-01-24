@@ -1,24 +1,4 @@
 
-
-
-<div align="center" style="animation: fadeIn 3s ease-in-out;">
-  <h1 style="font-size: 50px; color: #ff6347; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-    🎆🎉 Happy New Year 2025! 🎉🎆
-  </h1>
-  
-
-</div>
-
-
-
-
-
-
-
-
- 
-
-
 <div align="right" style="position: relative;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash7676.Prakash7676" style="position: absolute; top: 10px; right: 10px;" />
   <br />
