@@ -1,21 +1,15 @@
-
 <div align="right" style="position: relative;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash7676.Prakash7676" style="position: absolute; top: 10px; right: 10px;" />
   <br />
 </div>
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prakash+Shrestha!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prakash+Shrestha!;" />
 </div>
 
 <h3 align="center">A Passionate Flutter Developer From Nepal 🇳🇵</h3>
 
-
 ---
-
-
-
-
-
 
 ## 💡 About Me:
 - 🔭 I’m currently working on **HTML App**
@@ -47,7 +41,6 @@
 
 ---
 
-
 ## ✨ Languages and Tools:
 
 <div align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
@@ -66,9 +59,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,nodejs,django,mysql,firebase,sqlite,appwrite" alt="Frameworks & Databases" />
 </div>
 
-
 ---
-
 
 ## 🚀 My Contributions:
 
@@ -82,12 +73,7 @@
   />
 </div>
 
-
-
-
-
 ---
-
 
 ## 🌟 My Achievements:
 
@@ -103,13 +89,7 @@
   </a>
 </p>
 
-
-
-
-
 ---
-
-
 
 ## 🌟 GitHub Stats:
 
@@ -142,7 +122,3 @@
     style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"
   />
 </div>
-
-
-
-
