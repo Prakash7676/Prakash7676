@@ -93,32 +93,37 @@
 
 ## 🌟 GitHub Stats:
 
-<div align="center" style="animation: fadeIn 2s ease-in-out; background-color: #f5f5f5; padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<div align="center" style="animation: fadeIn 2s ease-in-out; background: linear-gradient(135deg, #f5f5f5, #e0e0e0); padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <!-- Streak Stats -->
-    <img 
-      width="390" 
-      src="https://streak-stats.demolab.com/?user=Prakash7676&count_private=true&theme=react&border_radius=10" 
-      alt="streak stats" 
-      style="transition: transform 0.3s ease-in-out; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"
-      onmouseover="this.style.transform='scale(1.05)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
+    <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img 
+        width="390" 
+        src="https://streak-stats.demolab.com/?user=Prakash7676&count_private=true&theme=react&border_radius=10" 
+        alt="streak stats" 
+        style="border-radius: 10px;"
+      />
+    </div>
     <!-- Readme Stats -->
-    <img 
-      width="390" 
-      src="https://github-readme-stats.vercel.app/api?username=Prakash7676&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-      alt="readme stats"
-      style="transition: transform 0.3s ease-in-out; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"
-      onmouseover="this.style.transform='scale(1.05)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
+    <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img 
+        width="390" 
+        src="https://github-readme-stats.vercel.app/api?username=Prakash7676&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+        alt="readme stats"
+        style="border-radius: 10px;"
+      />
+    </div>
   </div>
   <!-- Top Languages -->
-  <img 
-    width="325" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash7676&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-    alt="top langs"
-    style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"
-  />
+  <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img 
+      width="325" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash7676&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+      alt="top langs"
+      style="border-radius: 10px;"
+    />
+  </div>
 </div>
+
+
