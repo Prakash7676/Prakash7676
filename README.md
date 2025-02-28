@@ -1,3 +1,4 @@
+
 <div align="right" style="position: relative;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash7676.Prakash7676" style="position: absolute; top: 10px; right: 10px;" />
   <br />
@@ -7,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prakash+Shrestha!;" />
 </div>
 
-<h3 align="center">A Passionate Flutter Developer From Nepal 🇳🇵</h3>
+<h3 align="center" style="font-family: 'Poppins', sans-serif; color: #2c3e50;">A Passionate Flutter Developer From Nepal 🇳🇵</h3>
 
 ---
 
@@ -43,20 +44,20 @@
 
 ## ✨ Languages and Tools:
 
-<div align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #f4f4f4, #e0e0e0); border-radius: 10px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);">
   <!-- Languages -->
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=dart,python,javascript,php,c,java" alt="Languages" />
+  <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Languages</h3>
+  <img src="https://skillicons.dev/icons?i=dart,python,javascript,php,c,java" alt="Languages" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   <br /><br />
 
   <!-- Tools -->
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,photoshop,postman" alt="Tools" />
+  <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,photoshop,postman" alt="Tools" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   <br /><br />
 
   <!-- Frameworks & Databases -->
-  <h3>Frameworks & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,django,mysql,firebase,sqlite,appwrite" alt="Frameworks & Databases" />
+  <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Frameworks & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,django,mysql,firebase,sqlite,appwrite" alt="Frameworks & Databases" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 ---
@@ -93,7 +94,6 @@
 
 ## 🌟 GitHub Stats:
 
-
 <div align="center" style="animation: fadeIn 2s ease-in-out; background: linear-gradient(135deg, #f5f5f5, #e0e0e0); padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <!-- Streak Stats -->
@@ -126,4 +126,27 @@
   </div>
 </div>
 
+---
 
+
+
+
+
+
+## 📊 Activity Graph:
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash7676&theme=react-dark&bg_color=ffffff&color=000000&line=00b3ff&point=00b3ff&area=true&hide_border=true" 
+    alt="Activity Graph" 
+    style="border-radius: 10px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);"
+  />
+</div>
+
+---
+
+## 🎉 Thanks for Visiting!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Feel+free+to+connect+with+me!;Let's+collaborate+and+create+something+awesome!;" />
+</div>
