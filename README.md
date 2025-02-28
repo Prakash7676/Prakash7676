@@ -147,6 +147,28 @@
 
 ## 🎉 Thanks for Visiting!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Feel+free+to+connect+with+me!;Let's+collaborate+and+create+something+awesome!;" />
+
+<div align="center" style="position: relative; padding: 20px; background: linear-gradient(135deg, #6a11cb, #2575fc); border-radius: 15px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); overflow: hidden;">
+  <!-- Glowing Animation -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, rgba(255, 255, 255, 0.2), transparent); animation: glow 3s infinite alternate;"></div>
+
+  <!-- Typing Animation with Gradient Text -->
+ 
+<div style="position: relative; z-index: 1;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks%20for%20visiting!%20✌️;Feel%20free%20to%20connect%20with%20me!;Let's%20build%20the%20future%20together!%20🚀" 
+    alt="Thanks for visiting!" 
+    style="background: linear-gradient(45deg, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee, #f6d365); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientText 5s ease infinite;"
+  />
 </div>
+
+  <!-- Sparkle Animation -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
+    <div style="position: absolute; top: 20%; left: 10%; width: 10px; height: 10px; background: white; border-radius: 50%; animation: sparkle 2s infinite;"></div>
+    <div style="position: absolute; top: 50%; left: 70%; width: 8px; height: 8px; background: white; border-radius: 50%; animation: sparkle 1.5s infinite;"></div>
+    <div style="position: absolute; top: 80%; left: 30%; width: 12px; height: 12px; background: white; border-radius: 50%; animation: sparkle 2.5s infinite;"></div>
+  </div>
+</div>
+
+<!-- CSS Animations -->
+
