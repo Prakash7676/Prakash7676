@@ -1,174 +1,137 @@
-
-<div align="right" style="position: relative;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash7676.Prakash7676" style="position: absolute; top: 10px; right: 10px;" />
-  <br />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Prakash7676&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prakash+Shrestha!;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prakash%20Shrestha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descAlign=50&descSize=20" />
 </div>
-
-<h3 align="center" style="font-family: 'Poppins', sans-serif; color: #2c3e50;">A Passionate Flutter Developer From Nepal 🇳🇵</h3>
-
----
-
-## 💡 About Me:
-- 🔭 I’m currently working on **HTML App**
-- 🌱 I’m learning **Python**, **Java**, and **Flutter**
-- 💬 Ask me about **C, C++, Flutter**, or anything [here](https://github.com/Prakash7676/Prakash7676/issues)
-- ⚡ Fun Fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
----
-
-## 🌐 Socials:
 
 <div align="center">
-  <a href="mailto:shresthap125@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=Gmail&logoColor=orange" />
-  </a>
-  <a href="https://linkedin.com/in/prakash-stha-211404240" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue" />
-  </a>
-  <a href="https://instagram.com/iamprakash_77" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=orange" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009262777879" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=blue&color=blue" />
-  </a>
-  <a href="https://twitter.com/Prakash85220860" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A960EE&center=true&vCenter=true&random=false&width=620&height=60&lines=Hi+There!+%F0%9F%91%8B+I'm+Prakash!;Flutter+Developer+%7C+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Beautiful+Mobile+Apps+%F0%9F%93%B1;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
----
-
-## ✨ Languages and Tools:
-
-<div align="center" style="padding: 20px; background: linear-gradient(135deg, #f4f4f4, #e0e0e0); border-radius: 10px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);">
-  <!-- Languages -->
-  <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Languages</h3>
-  <img src="https://skillicons.dev/icons?i=dart,python,javascript,php,c,java" alt="Languages" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <br /><br />
-
-  <!-- Tools -->
-  <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Tools</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,photoshop,postman" alt="Tools" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <br /><br />
-
-  <!-- Frameworks & Databases -->
-  <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Frameworks & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,django,mysql,firebase,sqlite,appwrite" alt="Frameworks & Databases" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
+<br/>
 
 ---
 
-## 🚀 My Contributions:
+## 💡 About Me
 
-<div align="center" style="animation: fadeIn 2s ease-in-out;">
-  <img 
-    alt="rocket animation for my contributions" 
-    src="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" 
-    style="border-radius: 20px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" 
-    onmouseout="this.style.transform='scale(1)'"
-  />
-</div>
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
----
+- 🔭 I'm currently working on **HTML App**
+- 🌱 I'm currently learning **Python**, **Java**, and **Flutter**
+- 💬 Ask me about **C**, **C++**, **Flutter**, or anything [here](https://github.com/Prakash7676/Prakash7676/issues)
+- 🛠️ I work with **Dart**, **JavaScript**, **PHP**, and more
+- 🗄️ Databases I use: **Firebase**, **MySQL**, **SQLite**, **AppWrite**
+- 🎯 Frameworks: **Flutter**, **Node.js**, **Django**
+- ⚡ Fun Fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs 🤫**
 
-## 🌟 My Achievements:
-
-<p align="center" style="animation: fadeIn 2s ease-in-out;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Prakash7676&theme=onedark&column=4&margin-w=15&margin-h=15" 
-      alt="Prakash7676" 
-      style="border-radius: 10px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" 
-      onmouseover="this.style.transform='scale(1.05)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
-</p>
+<br clear="right"/>
 
 ---
 
-## 🌟 GitHub Stats:
-
-<div align="center" style="animation: fadeIn 2s ease-in-out; background: linear-gradient(135deg, #f5f5f5, #e0e0e0); padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <!-- Streak Stats -->
-    <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <img 
-        width="390" 
-        src="https://streak-stats.demolab.com/?user=Prakash7676&count_private=true&theme=react&border_radius=10" 
-        alt="streak stats" 
-        style="border-radius: 10px;"
-      />
-    </div>
-    <!-- Readme Stats -->
-    <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <img 
-        width="390" 
-        src="https://github-readme-stats.vercel.app/api?username=Prakash7676&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-        alt="readme stats"
-        style="border-radius: 10px;"
-      />
-    </div>
-  </div>
-  <!-- Top Languages -->
-  <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img 
-      width="325" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash7676&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-      alt="top langs"
-      style="border-radius: 10px;"
-    />
-  </div>
-</div>
-
----
-
-
-
-
-
-
-## 📊 Activity Graph:
+## 🌐 Connect With Me
 
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash7676&theme=react-dark&bg_color=ffffff&color=000000&line=00b3ff&point=00b3ff&area=true&hide_border=true" 
-    alt="Activity Graph" 
-    style="border-radius: 10px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);"
-  />
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthap125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-stha-211404240)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamprakash_77)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009262777879)
+[![Twitter / X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Prakash85220860)
+
 </div>
 
 ---
 
-## 🎉 Thanks for Visiting!
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<div align="center" style="position: relative; padding: 20px; background: linear-gradient(135deg, #6a11cb, #2575fc); border-radius: 15px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); overflow: hidden;">
-  <!-- Glowing Animation -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, rgba(255, 255, 255, 0.2), transparent); animation: glow 3s infinite alternate;"></div>
+**🔤 Languages**
 
-  <!-- Typing Animation with Gradient Text -->
- 
-<div style="position: relative; z-index: 1;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Thanks%20for%20visiting!%20✌️;Feel%20free%20to%20connect%20with%20me!;Let's%20build%20the%20future%20together!%20🚀" 
-    alt="Thanks for visiting!" 
-    style="background: linear-gradient(45deg, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee, #f6d365); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientText 5s ease infinite;"
-  />
+<img src="https://skillicons.dev/icons?i=dart,python,javascript,php,c,java&theme=dark&perline=6" />
+
+<br/><br/>
+
+**🧰 Tools**
+
+<img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,photoshop,postman&theme=dark&perline=7" />
+
+<br/><br/>
+
+**⚡ Frameworks & Databases**
+
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,django,mysql,firebase,sqlite,appwrite&theme=dark&perline=7" />
+
 </div>
 
-  <!-- Sparkle Animation -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
-    <div style="position: absolute; top: 20%; left: 10%; width: 10px; height: 10px; background: white; border-radius: 50%; animation: sparkle 2s infinite;"></div>
-    <div style="position: absolute; top: 50%; left: 70%; width: 8px; height: 8px; background: white; border-radius: 50%; animation: sparkle 1.5s infinite;"></div>
-    <div style="position: absolute; top: 80%; left: 30%; width: 12px; height: 12px; background: white; border-radius: 50%; animation: sparkle 2.5s infinite;"></div>
-  </div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakash7676&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=Prakash7676&theme=tokyonight&hide_border=true" />
 </div>
 
-<!-- CSS Animations -->
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash7676&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash7676&theme=tokyonight" />
+</div>
 
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+> 🎯 View all my GitHub Achievements here →
+> **[github.com/Prakash7676?tab=achievements](https://github.com/Prakash7676?tab=achievements)**
+
+| 🏅 Badge | 🌟 Description |
+|:---:|:---|
+| ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0075ca?style=for-the-badge&logo=github&logoColor=white) | Opened pull requests that got merged |
+| ![YOLO](https://img.shields.io/badge/YOLO-e4e669?style=for-the-badge&logo=github&logoColor=black) | Merged a pull request without review |
+| ![Quickdraw](https://img.shields.io/badge/Quickdraw-f9c513?style=for-the-badge&logo=github&logoColor=black) | Closed an issue / PR within 5 minutes |
+| ![Starstruck](https://img.shields.io/badge/Starstruck-yellow?style=for-the-badge&logo=github&logoColor=black) | Repository gained 16+ stars |
+| ![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-blueviolet?style=for-the-badge&logo=github&logoColor=white) | Community discussions answer accepted |
+| ![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-0075ca?style=for-the-badge&logo=github&logoColor=white) | Co-authored merged pull requests |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash7676&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Prakash7676/Prakash7676/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=55" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=A960EE&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing!+%F0%9F%9A%80;Feel+free+to+connect+with+me!+%E2%9C%8C%EF%B8%8F;Keep+coding%2C+keep+growing!+%F0%9F%92%AA" alt="Footer Typing" />
+  </a>
+</div>
